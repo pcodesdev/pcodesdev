@@ -13,8 +13,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcodesdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # 📝 :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=PcodesDev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
