@@ -12,9 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pcodesdev&theme=dark&hide_border=false)<br/>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcodesdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-# 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Hashnode Blog Post
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=PcodesDev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
