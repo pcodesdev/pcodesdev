@@ -14,6 +14,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Displaying data and conditional rendering in reactjs](https://pcodesdev.hashnode.dev/displaying-data-and-conditional-rendering-in-reactjs)
+- [Creating and nesting react components](https://pcodesdev.hashnode.dev/creating-and-nesting-react-components)
+- [Reactjs Editor Setup and Developer Tools](https://pcodesdev.hashnode.dev/reactjs-editor-setup-and-developer-tools)
+- [Create React App](https://pcodesdev.hashnode.dev/create-react-app)
+- [What is Reactjs](https://pcodesdev.hashnode.dev/what-is-reactjs)
 <!-- HASHNODE:END -->
 
 ## 🐦 Latest Tweet
