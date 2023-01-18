@@ -15,11 +15,11 @@
 
 # ✍️ Latest Blog Posts
 <!-- HASHNODE:START -->
+- [Project:Create a Tic-Tac-Toe game using react](https://pcodesdev.hashnode.dev/projectcreate-a-tic-tac-toe-game-using-react)
 - [Using hooks and sharing data between components using props in reactjs](https://pcodesdev.hashnode.dev/using-hooks-and-sharing-data-between-components-using-props-in-reactjs)
 - [Responding to events and updating the screen in reactjs](https://pcodesdev.hashnode.dev/responding-to-events-and-updating-the-screen-in-reactjs)
 - [Displaying data and conditional rendering in reactjs](https://pcodesdev.hashnode.dev/displaying-data-and-conditional-rendering-in-reactjs)
 - [Creating and nesting react components](https://pcodesdev.hashnode.dev/creating-and-nesting-react-components)
-- [Reactjs Editor Setup and Developer Tools](https://pcodesdev.hashnode.dev/reactjs-editor-setup-and-developer-tools)
 <!-- HASHNODE:END -->
 
 ## 🐦 Latest Tweet
