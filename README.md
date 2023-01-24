@@ -15,11 +15,11 @@
 
 # ✍️ Latest Blog Posts
 <!-- HASHNODE:START -->
+- [Thinking in React](https://pcodesdev.hashnode.dev/thinking-in-react)
 - [What Is AWS?](https://pcodesdev.hashnode.dev/what-is-aws)
 - [Project:Create a Tic-Tac-Toe game using react](https://pcodesdev.hashnode.dev/projectcreate-a-tic-tac-toe-game-using-react)
 - [Using hooks and sharing data between components using props in reactjs](https://pcodesdev.hashnode.dev/using-hooks-and-sharing-data-between-components-using-props-in-reactjs)
 - [Responding to events and updating the screen in reactjs](https://pcodesdev.hashnode.dev/responding-to-events-and-updating-the-screen-in-reactjs)
-- [Displaying data and conditional rendering in reactjs](https://pcodesdev.hashnode.dev/displaying-data-and-conditional-rendering-in-reactjs)
 <!-- HASHNODE:END -->
 
 ## 🐦 Latest Tweet
