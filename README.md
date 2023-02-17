@@ -15,11 +15,11 @@
 
 # ✍️ Latest Blog Posts
 <!-- HASHNODE:START -->
+- [React Router](https://pcodesdev.hashnode.dev/react-router)
 - [React Hooks](https://pcodesdev.hashnode.dev/react-hooks)
 - [Adding Interactivity in React](https://pcodesdev.hashnode.dev/adding-interactivity-in-react)
 - [Thinking in React](https://pcodesdev.hashnode.dev/thinking-in-react)
 - [What Is AWS?](https://pcodesdev.hashnode.dev/what-is-aws)
-- [Project:Create a Tic-Tac-Toe game using react](https://pcodesdev.hashnode.dev/projectcreate-a-tic-tac-toe-game-using-react)
 <!-- HASHNODE:END -->
 
 ## 🐦 Latest Tweet
