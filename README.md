@@ -15,11 +15,11 @@
 
 # ✍️ Latest Blog Posts
 <!-- HASHNODE:START -->
+- [Amazon Web Services Technical Essentials](https://pcodesdev.hashnode.dev/amazon-web-services-technical-essentials)
 - [React Router](https://pcodesdev.hashnode.dev/react-router)
 - [React Hooks](https://pcodesdev.hashnode.dev/react-hooks)
 - [Adding Interactivity in React](https://pcodesdev.hashnode.dev/adding-interactivity-in-react)
 - [Thinking in React](https://pcodesdev.hashnode.dev/thinking-in-react)
-- [What Is AWS?](https://pcodesdev.hashnode.dev/what-is-aws)
 <!-- HASHNODE:END -->
 
 ## 🐦 Latest Tweet
