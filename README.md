@@ -15,11 +15,11 @@
 
 # ✍️ Latest Blog Posts
 <!-- HASHNODE:START -->
+- [How to Push Files Over 100MB to GitHub: A Step-by-Step Guide with Git Large File Storage &lpar;LFS&rpar;](https://pcodesdev.hashnode.dev/how-to-push-files-over-100mb-to-github-a-step-by-step-guide-with-git-large-file-storage-lfs)
 - [Amazon Web Services Technical Essentials](https://pcodesdev.hashnode.dev/amazon-web-services-technical-essentials)
 - [React Router](https://pcodesdev.hashnode.dev/react-router)
 - [React Hooks](https://pcodesdev.hashnode.dev/react-hooks)
 - [Adding Interactivity in React](https://pcodesdev.hashnode.dev/adding-interactivity-in-react)
-- [Thinking in React](https://pcodesdev.hashnode.dev/thinking-in-react)
 <!-- HASHNODE:END -->
 
 ## 🐦 Latest Tweet
