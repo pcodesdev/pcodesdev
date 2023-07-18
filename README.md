@@ -15,11 +15,11 @@
 
 # ✍️ Latest Blog Posts
 <!-- HASHNODE:START -->
+- [Learn and Practice Web Design: Top 20 YouTube Channels You Need to Follow](https://pcodesdev.hashnode.dev/learn-and-practice-web-design-top-20-youtube-channels-you-need-to-follow)
 - [Mastering Git and Github: Key Concepts You Need to Know for Successful Version Control](https://pcodesdev.hashnode.dev/mastering-git-and-github-key-concepts-you-need-to-know-for-successful-version-control)
 - [How to Push Files Over 100MB to GitHub: A Step-by-Step Guide with Git Large File Storage &lpar;LFS&rpar;](https://pcodesdev.hashnode.dev/how-to-push-files-over-100mb-to-github-a-step-by-step-guide-with-git-large-file-storage-lfs)
 - [Amazon Web Services Technical Essentials](https://pcodesdev.hashnode.dev/amazon-web-services-technical-essentials)
 - [React Router](https://pcodesdev.hashnode.dev/react-router)
-- [React Hooks](https://pcodesdev.hashnode.dev/react-hooks)
 <!-- HASHNODE:END -->
 
 ## 🐦 Latest Tweet
