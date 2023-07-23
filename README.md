@@ -86,7 +86,7 @@ src="https://img.shields.io/twitter/follow/PcodesDev?logo=twitter&style=for-the-
 - [React Router](https://pcodesdev.hashnode.dev/react-router)
 <!-- HASHNODE:END -->
 
-## 🐦 Latest Tweets
+# 🐦 Latest Tweets
 
 <!-- TWITTER:START -->
 - [@khalilApriday: RT by @PcodesDev: 16 GB Drive of Design Bootcamp PhotoshopIllustratorIn designLogo Design Magazine AdBrochures](https://twitter.com/khalilApriday/status/1682980598153990144)
@@ -96,12 +96,13 @@ src="https://img.shields.io/twitter/follow/PcodesDev?logo=twitter&style=for-the-
 - [@janetmachuka_: RT by @PcodesDev: 9 YouTube Documentaries to Watch 👇🏾 1. My undercover journey: Exposing the doctors exploiting patients —BBC World Service 2. Poverty in Britain —DW Documentary3. Lebanon: Extreme Poverty, Corruption and Soaring —Java Discover4. Rich Ghettos: How is Life in Gated…](https://twitter.com/janetmachuka_/status/1682440560294895626)
 <!-- TWITTER:END -->
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+# 😂 Random Dev Meme
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pcodesdev&icon=0&color=0)](https://visitcount.itsvg.in)
