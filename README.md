@@ -8,7 +8,7 @@ I am a unicorn Web Developer, Tech Support Pro and an Digital Trainer
 * 🖥️  See my portfolio at [MyPortfolio](http://pcodesdev.pages.dev/)
 * ✉️  You can contact me at [njugunapm23@gmail.com](mailto:njugunapm23@gmail.com)
 * 🧠  I'm learning and practicing TypeScript, Reactjs and Nextjs
-* 🤝  I'm open to collaborating on nteresting projects that impact peoples lives positively
+* 🤝  I'm open to collaborating on interesting projects that impact peoples lives positively
 * ⚡  I love dogs 🐕
 
 <a href="https://www.github.com/pcodesdev" target="_blank" rel="noreferrer"><img
