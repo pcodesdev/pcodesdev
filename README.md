@@ -86,7 +86,7 @@ src="https://img.shields.io/twitter/follow/PcodesDev?logo=twitter&style=for-the-
 - [React Router](https://pcodesdev.hashnode.dev/react-router)
 <!-- HASHNODE:END -->
 
-## 🐦 Latest Tweet
+## 🐦 Latest Tweets
 
 <!-- TWITTER:START -->
 - [@khalilApriday: RT by @PcodesDev: 16 GB Drive of Design Bootcamp PhotoshopIllustratorIn designLogo Design Magazine AdBrochures](https://twitter.com/khalilApriday/status/1682980598153990144)
