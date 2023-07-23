@@ -102,6 +102,7 @@ src="https://img.shields.io/twitter/follow/PcodesDev?logo=twitter&style=for-the-
 
 # 😂 Random Dev Meme
 <!--STARTS_HERE_QUOTE_README-->
+<i>❝“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
