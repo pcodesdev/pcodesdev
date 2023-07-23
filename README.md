@@ -63,6 +63,9 @@ src="https://img.shields.io/twitter/follow/PcodesDev?logo=twitter&style=for-the-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pcodesdev?cardType=octocat&preferLogin=false&Background=343A40&Text=FFFFFF&Ring=4263EB)](https://git.io/awesome-stats-card)
 
 <a href="http://www.github.com/pcodesdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pcodesdev&stroke=ffffff&background=343A40&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><a href="https://github.com/pcodesdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcodesdev&layout=pie&hide=python,php&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=343A40&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
+
+![🔝 Top Repo Commits](https://github-contributor-stats.vercel.app/api?username=pcodesdev&theme=dark&limit=5&combine_all_yearly_contributions=true)
 
 <!--![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pcodesdev?cardType=github&theme=react)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pcodesdev&theme=dark&hide_border=false)<br/>
@@ -100,10 +103,11 @@ src="https://img.shields.io/twitter/follow/PcodesDev?logo=twitter&style=for-the-
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 😂 Random Dev Meme
-<!--STARTS_HERE_QUOTE_README-->
+<!--# 😂 Random Dev Meme
+STARTS_HERE_QUOTE_README
 <i>❝“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+ENDS_HERE_QUOTE_README-->
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pcodesdev&icon=0&color=0)](https://visitcount.itsvg.in)
