@@ -88,7 +88,8 @@ src="https://img.shields.io/twitter/follow/PcodesDev?logo=twitter&style=for-the-
 
 ## 🐦 Latest Tweet
 
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=PcodesDev&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
 
 ### ✍️ Random Dev Quote
 
