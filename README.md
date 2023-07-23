@@ -10,6 +10,8 @@
 # 📊 GitHub Stats:
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pcodesdev?cardType=github&theme=react)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pcodesdev&theme=dark&hide_border=false)<br/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pcodesdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcodesdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
