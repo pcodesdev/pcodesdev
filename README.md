@@ -92,11 +92,11 @@ src="https://img.shields.io/twitter/follow/PcodesDev?logo=twitter&style=for-the-
 # 🐦 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@SpaceYaTech: RT by @PcodesDev: Earnings from Upwork will henceforth attract 16% VAT for Kenyan freelancers. Upwork will deduct 16% of Kenyan Upwork freelancers and submit to KRA.__Tech Cabal.](https://twitter.com/SpaceYaTech/status/1683844366828273666)
+- [@PSCKenya: RT by @PcodesDev: UPDATE: Recruitment of interns for Government Ministries, Departments and Agencies under the Public Service Internship Programme &lpar;PSIP&rpar; Cohort &lpar;VI&rpar;. Open Vacancies: 8,000#IkoKaziKE](https://twitter.com/PSCKenya/status/1683713733845983232)
 - [@khalilApriday: RT by @PcodesDev: 16 GB Drive of Design Bootcamp PhotoshopIllustratorIn designLogo Design Magazine AdBrochures](https://twitter.com/khalilApriday/status/1682980598153990144)
 - [@PcodesDev: Tech Video to watch over the weekend; In the Age of AI &lpar;full documentary&rpar; | FRONTLINE](https://twitter.com/PcodesDev/status/1682831629113327616)
 - [@symplyDAPO: RT by @PcodesDev: When they move from Europe to Africa = Voyages of discovery. When we move from Africa to Europe = Illegal immigrants.A group of Africans in Europe = Refugees.A group of Europeans in Africa = Tourists.A group of Africans in the bush = PoachersA group of Europeans in bush…](https://twitter.com/symplyDAPO/status/1682677930948739073)
-- [@FCA_Kenya: RT by @PcodesDev: Today, FCA Kenya, led by Country Director John Bongei, hosted Secretary of State Julieta Noyes @PRMAsstSec to showcase our work in the creative industry. The project empowers unemployed youth through skills exchange, creating job opportunities in the creative sector. @StatePRM](https://twitter.com/FCA_Kenya/status/1682463363048013825)
-- [@janetmachuka_: RT by @PcodesDev: 9 YouTube Documentaries to Watch 👇🏾 1. My undercover journey: Exposing the doctors exploiting patients —BBC World Service 2. Poverty in Britain —DW Documentary3. Lebanon: Extreme Poverty, Corruption and Soaring —Java Discover4. Rich Ghettos: How is Life in Gated…](https://twitter.com/janetmachuka_/status/1682440560294895626)
 <!-- TWITTER:END -->
 
 # ✍️ Random Dev Quote
