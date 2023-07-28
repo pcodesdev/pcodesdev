@@ -92,11 +92,15 @@ src="https://img.shields.io/twitter/follow/PcodesDev?logo=twitter&style=for-the-
 # 🐦 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@UnkleAyo: RT by @PcodesDev: Since everyone is asleep, let me share this goldmine. I received more than 100 DMs from UI/UX techies, so here&#39;s a completely FREE 6 GB folder on:✅Product design✅Graphic design ✅Web design✅UX design✅Webflow✅Figma✅UI/UXDon&#39;t thank me.RT.](https://twitter.com/UnkleAyo/status/1683958880361910273)
-- [@SpaceYaTech: RT by @PcodesDev: Earnings from Upwork will henceforth attract 16% VAT for Kenyan freelancers. Upwork will deduct 16% of Kenyan Upwork freelancers and submit to KRA.__Tech Cabal.](https://twitter.com/SpaceYaTech/status/1683844366828273666)
-- [@PSCKenya: RT by @PcodesDev: UPDATE: Recruitment of interns for Government Ministries, Departments and Agencies under the Public Service Internship Programme &lpar;PSIP&rpar; Cohort &lpar;VI&rpar;. Open Vacancies: 8,000#IkoKaziKE](https://twitter.com/PSCKenya/status/1683713733845983232)
-- [@khalilApriday: RT by @PcodesDev: 16 GB Drive of Design Bootcamp PhotoshopIllustratorIn designLogo Design Magazine AdBrochures](https://twitter.com/khalilApriday/status/1682980598153990144)
-- [@PcodesDev: Tech Video to watch over the weekend; In the Age of AI &lpar;full documentary&rpar; | FRONTLINE](https://twitter.com/PcodesDev/status/1682831629113327616)
+- [@HuaweiKenya: RT by @PcodesDev: The Seeds for The Future program is back! 
+
+We&#39;re thrilled to announce the return of this year&#39;s program! Are you ready to…](https://twitter.com/PcodesDev/status/1684650498878550016)
+- [@Thika_Technical: RT by @PcodesDev: Applications for September 2023 Intake for Diploma in Autobody Technician is ongoing. Apply to Learn how to reshape an…](https://twitter.com/PcodesDev/status/1684236214973390848)
+- [@cb_doge: RT by @PcodesDev: Time to complete the circle!  𝕏](https://twitter.com/PcodesDev/status/1684235223662305281)
+- [@elonmusk: RT by @PcodesDev:](https://twitter.com/PcodesDev/status/1684232990522585091)
+- [@UnkleAyo: RT by @PcodesDev: Since everyone is asleep, let me share this goldmine.
+
+I received more than 100 DMs from UI/UX techies, so here&#39;s a completel…](https://twitter.com/PcodesDev/status/1684036995121569792)
 <!-- TWITTER:END -->
 
 # ✍️ Random Dev Quote
