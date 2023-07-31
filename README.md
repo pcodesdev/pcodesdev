@@ -92,15 +92,7 @@ src="https://img.shields.io/twitter/follow/PcodesDev?logo=twitter&style=for-the-
 # 🐦 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@HuaweiKenya: RT by @PcodesDev: The Seeds for The Future program is back! 
-
-We&#39;re thrilled to announce the return of this year&#39;s program! Are you ready to…](https://twitter.com/PcodesDev/status/1684650498878550016)
-- [@Thika_Technical: RT by @PcodesDev: Applications for September 2023 Intake for Diploma in Autobody Technician is ongoing. Apply to Learn how to reshape an…](https://twitter.com/PcodesDev/status/1684236214973390848)
-- [@cb_doge: RT by @PcodesDev: Time to complete the circle!  𝕏](https://twitter.com/PcodesDev/status/1684235223662305281)
-- [@elonmusk: RT by @PcodesDev:](https://twitter.com/PcodesDev/status/1684232990522585091)
-- [@UnkleAyo: RT by @PcodesDev: Since everyone is asleep, let me share this goldmine.
-
-I received more than 100 DMs from UI/UX techies, so here&#39;s a completel…](https://twitter.com/PcodesDev/status/1684036995121569792)
+- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
 <!-- TWITTER:END -->
 
 # ✍️ Random Dev Quote
