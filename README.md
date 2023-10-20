@@ -82,11 +82,11 @@ src="https://img.shields.io/twitter/follow/PcodesDev?logo=twitter&style=for-the-
 
 # ✍️ Latest Blog Posts
 <!-- HASHNODE:START -->
+- [Comparing Create-React-App vs Vite: A Comprehensive Guide for Front-end Development](https://pcodesdev.hashnode.dev/comparing-create-react-app-vs-vite-a-comprehensive-guide-for-front-end-development)
 - [Gig/Freelance Work Pricing Guide](https://pcodesdev.hashnode.dev/gigfreelance-work-pricing-guide)
 - [The Evolution of HTML: A Journey Through Time](https://pcodesdev.hashnode.dev/the-evolution-of-html-a-journey-through-time)
 - [7 Steps to Creating a Captivating Website: A Step-by-Step Guide for Success in the Digital Realm](https://pcodesdev.hashnode.dev/7-steps-to-creating-a-captivating-website-a-step-by-step-guide-for-success-in-the-digital-realm)
 - [Learn and Practice Web Design: Top 20 YouTube Channels You Need to Follow](https://pcodesdev.hashnode.dev/learn-and-practice-web-design-top-20-youtube-channels-you-need-to-follow)
-- [Mastering Git and Github: Key Concepts You Need to Know for Successful Version Control](https://pcodesdev.hashnode.dev/mastering-git-and-github-key-concepts-you-need-to-know-for-successful-version-control)
 <!-- HASHNODE:END -->
 
 # 🐦 Latest Tweets
