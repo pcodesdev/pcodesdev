@@ -1,21 +1,22 @@
-name: Update README with latest blog posts
+name: 'Hashnode Blogs'
 
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs every hour, on the hour.
 
 jobs:
-  update-readme:
+  update_blogs:
+    name: 'Hashnode Latest Blogs'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: 'Fetch Repository Contents'
+        uses: actions/checkout@main
+
+      - name: 'Hashnode Blog Action'
+        uses: "Sachin-chaurasiya/hashnode-blog-action@main"
         with:
-          feed_list: "https://pcodesdev.hashnode.dev/rss.xml"
-          max_post_count: 5
-          template: "[$title]($url) - $date"
-          commit_message: "Updated README with the latest blog posts"
-          committer_username: "blog-post-bot"
-          committer_email: "blog-post-bot@example.com"
+          HASHNODE_PUBLICATION_NAME: 'pcodesdev.hashnode.dev'
+          FORMAT: 'stack'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
