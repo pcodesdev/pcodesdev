@@ -1,8 +1,10 @@
-<br clear="both">
+# Hello, World! I'm Peter Njuguna 👨‍💻
 
-<h2 align="center">Hi 👋! My name is Peter and I'm a coding nomad from the Silicon Savannah</h2>
-
-###
+```bash
+$ whoami
+> Coding nomad roaming the Silicon Savannah 🦁💻
+Feel free to git clone my projects or npm install my ideas into your next big thing!
+```
 
 <br clear="both">
 
@@ -10,13 +12,53 @@
   <img height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611t7f9bm2swvo7ljvo87cnhzf0173jhwgkb6xmw4je&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-###
+## About Me
 
-<br clear="both">
+- 🌍 Based in Kenya
+- 🖥️ Portfolio: [My Portfolio](http://pcodesdev.github.io)
+- 📝 Blog: [My Tech Blog](https://pcodesdev.hashnode.dev/)
+- ✉️ Contact: [njugunapm23@gmail.com](mailto:njugunapm23@gmail.com)
 
-<p align="left">* 🌍  I'm based in Kenya<br>* 🖥️  See my portfolio at [MyPortfolio](http://pcodesdev.github.io)<br>* ✉️  You can contact me at [njugunapm23@gmail.com](mailto:njugunapm23@gmail.com)<br>* 🚀  I'm currently working on [The Scrimba Frontend Developer Career Path](http://v2.scrimba.com/the-frontend-developer-career-path-c0j)<br>* 🧠  I'm learning React, Nextjs and React Native<br>* 🤝  I'm open to collaborating on Innovative coding projects that push the boundaries of web and mobile development Creating engaging technical content for blogs and digital platforms Developing comprehensive digital skills training programs for diverse audiences Open-source initiatives that promote accessibility and inclusivity in tech Cutting-edge software solutions that address real-world challenges Mentorship programs to nurture the next generation of tech talent<br>* ⚡  I once wrote a function so efficient, it finished before I even called it. My code doesn't run on a computer - it runs on pure determination and coffee. When I'm not debugging, I'm probably thinking about debugging. My favorite dance move? The infinite loop.</p>
+## Current Focus
 
-###
+- 🚀 Working on: [The Scrimba Frontend Developer Career Path](http://v2.scrimba.com/the-frontend-developer-career-path-c0j)
+- 🧠 Learning:
+  - React
+  - Next.js
+  - React Native
+
+Feel free to reach out for collaborations or just to say hi!
+  
+🤝  I'm open to collaborating on
+   - Innovative coding projects that push the boundaries of web and mobile development
+   - Creating engaging technical content for blogs and digital platforms
+   - Developing comprehensive digital skills training programs for diverse audiences
+   - Open-source initiatives that promote accessibility and inclusivity in tech
+   - Cutting-edge software solutions that address real-world challenges
+   - Mentorship programs to nurture the next generation of tech talent
+     
+
+##⚡  A Programmer's Tale
+
+> I once wrote a function so efficient, it finished before I even called it.
+
+My code doesn't run on a computer - it runs on:
+1. Pure determination
+2. Coffee
+
+When I'm not debugging, I'm probably:
+- [ ] Sleeping
+- [ ] Eating
+- [x] Thinking about debugging
+
+**My favorite dance move?** 
+```javaScript
+while True:
+    console.log("The infinite loop!")
+```
+
+
+## Socials
 
 <br clear="both">
 
@@ -32,7 +74,7 @@
   </a>
 </div>
 
-###
+## Stats
 
 <br clear="both">
 
@@ -44,7 +86,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=pcodesdev&theme=dracula" height="150" alt="trophy graph"  />
 </div>
 
-###
+## Skills
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -218,10 +260,12 @@
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 </div>
 
-###
+## Contributions
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/pcodesdev/pcodesdev/output/snake.svg" alt="Snake animation" />
 
-###
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
