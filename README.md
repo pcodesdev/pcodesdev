@@ -102,9 +102,11 @@ const peter = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcodesdev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+<!-- Service currently unavailable (503)
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pcodesdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pcodesdev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
+-->
 
 ---
 
