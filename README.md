@@ -1,271 +1,194 @@
-# Hello, World! I'm Peter Njuguna 👨‍💻
+<div align="center">
 
-```bash
-$ whoami
-> Coding nomad roaming the Silicon Savannah 🦁💻
-Feel free to git clone my projects or npm install my ideas into your next big thing!
+# Peter Njuguna | Full Stack Developer & Cloud Architect
+
+**`Digital Craftsman | Code Educator | Cloud Solutions Expert`**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pcodesdev.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pcodesdev.github.io)
+[![Blog](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pcodesdev.hashnode.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pcodesdev/)
+[![Email](https://img.shields.io/badge/Email-njugunapm23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njugunapm23@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Full Stack Developer and Cloud Architect with **5+ years** of experience building scalable web applications and cloud infrastructure. Passionate about creating elegant solutions to complex problems and empowering the next generation of developers.
+
+```javascript
+const peter = {
+    location: "Nairobi, Kenya 🇰🇪",
+    role: "Full Stack Developer & Cloud Architect",
+    experience: "5+ years",
+    impact: "Trained 2000+ participants in digital skills",
+    currentFocus: ["React", "Next.js", "Cloud Architecture", "Technical Training"],
+    availableFor: ["Full-time opportunities", "Freelance projects", "Technical consulting"]
+};
 ```
 
-<br clear="both">
+### 🎯 Core Expertise
+
+- **Frontend Development**: React, Next.js, TypeScript, Responsive Design
+- **Backend Development**: Node.js, Python, Django, Express.js
+- **Cloud & DevOps**: AWS, Azure, Docker, CI/CD Pipelines
+- **Database Management**: PostgreSQL, MongoDB, MySQL, Redis
+- **Technical Training**: Digital Skills Education, Curriculum Development
+
+### 🏆 Key Achievements
+
+- 🎓 **Trained 2000+ participants** in digital skills across Kenya
+- ☁️ **Architected cloud solutions** for enterprise-level applications
+- 🚀 **Built and deployed** 50+ production-ready web applications
+- 📝 **Active technical writer** sharing knowledge through blog posts
+- 🤝 **Contributed to open-source** projects and community initiatives
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611t7f9bm2swvo7ljvo87cnhzf0173jhwgkb6xmw4je&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcodesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcodesdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcodesdev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-- 🌍 Based in Kenya
-- 🖥️ Portfolio: [My Portfolio](http://pcodesdev.github.io)
-- 📝 Blog: [My Tech Blog](https://pcodesdev.hashnode.dev/)
-- ✉️ Contact: [njugunapm23@gmail.com](mailto:njugunapm23@gmail.com)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pcodesdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
 
-## Current Focus
+---
 
-- 🚀 Working on: [The Scrimba Frontend Developer Career Path](http://v2.scrimba.com/the-frontend-developer-career-path-c0j)
-- 🧠 Learning:
-  - React
-  - Next.js
-  - React Native
+## 🚀 Current Focus
 
-Feel free to reach out for collaborations or just to say hi!
-  
-🤝  I'm open to collaborating on
-   - Innovative coding projects that push the boundaries of web and mobile development
-   - Creating engaging technical content for blogs and digital platforms
-   - Developing comprehensive digital skills training programs for diverse audiences
-   - Open-source initiatives that promote accessibility and inclusivity in tech
-   - Cutting-edge software solutions that address real-world challenges
-   - Mentorship programs to nurture the next generation of tech talent
-     
+```yaml
+learning:
+  - Advanced React Patterns & Performance Optimization
+  - Cloud-Native Architecture & Microservices
+  - AI/ML Integration in Web Applications
+  - DevOps & Infrastructure as Code
 
-##⚡  A Programmer's Tale
+working_on:
+  - Scrimba Frontend Developer Career Path
+  - Building scalable SaaS applications
+  - Contributing to open-source projects
+  - Creating technical content & tutorials
 
-> I once wrote a function so efficient, it finished before I even called it.
-
-My code doesn't run on a computer - it runs on:
-1. Pure determination
-2. Coffee
-
-When I'm not debugging, I'm probably:
-- [ ] Sleeping
-- [ ] Eating
-- [x] Thinking about debugging
-
-**My favorite dance move?** 
-```javaScript
-while True:
-    console.log("The infinite loop!")
+open_to:
+  - Full-time Software Engineering roles
+  - Cloud Architecture consulting
+  - Technical training & mentorship
+  - Collaborative open-source projects
 ```
 
+---
 
-## Socials
+## 🤝 Let's Collaborate
 
-<br clear="both">
+I'm actively seeking opportunities to collaborate on:
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pcodesdev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/PcodesDev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/15856450/pcodesdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
-  </a>
-</div>
+- 🌐 **Innovative Web & Mobile Applications** - Building cutting-edge solutions
+- 📚 **Technical Content Creation** - Sharing knowledge through blogs and tutorials
+- 🎓 **Digital Skills Training Programs** - Empowering communities with tech education
+- 🔓 **Open Source Projects** - Contributing to accessibility and inclusivity in tech
+- 💡 **Real-World Problem Solving** - Creating impactful software solutions
+- 👨‍🏫 **Mentorship Initiatives** - Nurturing the next generation of developers
 
-## Stats
+---
 
-<br clear="both">
+## 📝 Latest Blog Posts
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pcodesdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=pcodesdev&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pcodesdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcodesdev&area=true&hide_title=false&theme=dracula" height="150" alt="activity-graph graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=pcodesdev&theme=dracula" height="150" alt="trophy graph"  />
-</div>
-
-## Skills
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="30" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="30" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="30" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="30" alt="devicon logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="30" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/heroku/430098" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="30" alt="moodle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="30" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="30" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="30" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="30" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apollographql/311C87" height="30" alt="apollographql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="30" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/svg/FFB13B" height="30" alt="svg logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="30" alt="rabbitmq logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-</div>
-
-## Contributions
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pcodesdev/pcodesdev/output/snake.svg" alt="Snake animation" />
-
-## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+> 📌 Visit my [Hashnode blog](https://pcodesdev.hashnode.dev/) for in-depth technical articles
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pcodesdev/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PcodesDev)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15856450/pcodesdev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njugunapm23@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Wisdom
+
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**⚡ Fun Fact**: I once optimized a function so well, it finished before I even called it! 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=pcodesdev&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pcodesdev/pcodesdev/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+**💼 Open to opportunities | 🌍 Based in Kenya | 🚀 Building the future, one commit at a time**
+
+</div>
