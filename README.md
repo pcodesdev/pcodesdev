@@ -1,6 +1,10 @@
 <div align="center">
 
-# Peter Njuguna | Full Stack Developer & Cloud Architect
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Peter Njuguna | Full Stack Developer & Cloud Architect
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Digital+Craftsman+%7C+Code+Educator;Cloud+Solutions+Expert;5%2B+Years+Building+Scalable+Apps;Training+2000%2B+Developers;Full+Stack+%7C+React+%7C+Node.js+%7C+AWS)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 **`Digital Craftsman | Code Educator | Cloud Solutions Expert`**
 
@@ -12,6 +16,8 @@
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 👨‍💻 About Me
 
@@ -48,48 +54,31 @@ const peter = {
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,java,php&theme=dark&perline=7" />
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,materialui&theme=dark&perline=7" />
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,fastapi&theme=dark&perline=5" />
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,vercel,netlify&theme=dark&perline=7" />
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase&theme=dark&perline=6" />
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash&theme=dark&perline=7" />
+
+</div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 📊 GitHub Analytics
 
@@ -99,14 +88,30 @@ const peter = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcodesdev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcodesdev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
-<!-- Service currently unavailable (503)
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pcodesdev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pcodesdev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
--->
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+![Commits](https://img.shields.io/github/commit-activity/y/pcodesdev/pcodesdev.github.io?style=for-the-badge&logo=github&label=Commits&color=blue)
+![Followers](https://img.shields.io/github/followers/pcodesdev?style=for-the-badge&logo=github&label=Followers&color=orange)
+![Stars](https://img.shields.io/github/stars/pcodesdev?style=for-the-badge&logo=github&label=Stars&color=yellow)
+![Repos](https://img.shields.io/badge/Public%20Repos-50+-green?style=for-the-badge&logo=github)
+![Years Active](https://img.shields.io/badge/Years%20Active-5+-blueviolet?style=for-the-badge&logo=github)
+
+</div>
+
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=pcodesdev&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
@@ -182,6 +187,8 @@ I'm actively seeking opportunities to collaborate on:
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pcodesdev/pcodesdev/output/snake.svg" alt="Snake animation" />
