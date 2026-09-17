@@ -1,203 +1,333 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Peter Njuguna | Full Stack Developer & Cloud Architect
+# 👋 Peter Njuguna
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Digital+Craftsman+%7C+Code+Educator;Cloud+Solutions+Expert;5%2B+Years+Building+Scalable+Apps;Training+2000%2B+Developers;Full+Stack+%7C+React+%7C+Node.js+%7C+AWS)](https://git.io/typing-svg)
+### Software Engineer | Cloud & AI Practitioner | Digital Skills & Technology Educator
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+Building practical, scalable technology solutions at the intersection of **software engineering, cloud computing, AI and digital skills**.
 
-**`Digital Craftsman | Code Educator | Cloud Solutions Expert`**
+[![Portfolio](https://img.shields.io/badge/Portfolio-pcodesdev.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pcodesdev.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pcodesdev/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njugunapm23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-pcodesdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pcodesdev)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pcodesdev.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pcodesdev.github.io)
-[![Blog](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pcodesdev.hashnode.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pcodesdev/)
-[![Email](https://img.shields.io/badge/Email-njugunapm23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njugunapm23@gmail.com)
+🇰🇪 Nairobi, Kenya | 🌍 Open to Remote & International Opportunities
 
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 👨‍💻 About Me
 
-Full Stack Developer and Cloud Architect with **5+ years** of experience building scalable web applications and cloud infrastructure. Passionate about creating elegant solutions to complex problems and empowering the next generation of developers.
+I am a **Software Engineer, Cloud Practitioner and Digital Skills Educator** with 5+ years of experience spanning software development, cloud technologies, ICT support, technical training and digital-skills programme delivery.
 
-```javascript
-const peter = {
-    location: "Nairobi, Kenya 🇰🇪",
-    role: "Full Stack Developer & Cloud Architect",
-    experience: "5+ years",
-    impact: "Trained 2000+ participants in digital skills",
-    currentFocus: ["React", "Next.js", "Cloud Architecture", "Technical Training"],
-    availableFor: ["Full-time opportunities", "Freelance projects", "Technical consulting"]
-};
-```
+My work combines **hands-on technology with real-world impact** — from building web applications and offline-first systems to designing and delivering digital-skills programmes for young people.
 
-### 🎯 Core Expertise
+I enjoy solving complex problems, building useful products, simplifying technology through teaching, and continuously exploring how **AI can improve software, learning and productivity**.
 
-- **Frontend Development**: React, Next.js, TypeScript, Responsive Design
-- **Backend Development**: Node.js, Python, Django, Express.js
-- **Cloud & DevOps**: AWS, Azure, Docker, CI/CD Pipelines
-- **Database Management**: PostgreSQL, MongoDB, MySQL, Redis
-- **Technical Training**: Digital Skills Education, Curriculum Development
+### What I bring
 
-### 🏆 Key Achievements
-
-- 🎓 **Trained 2000+ participants** in digital skills across Kenya
-- ☁️ **Architected cloud solutions** for enterprise-level applications
-- 🚀 **Built and deployed** 50+ production-ready web applications
-- 📝 **Active technical writer** sharing knowledge through blog posts
-- 🤝 **Contributed to open-source** projects and community initiatives
+- 💻 Software development with **JavaScript, TypeScript, React, Node.js and Python**
+- ☁️ Cloud experience across **AWS, Google Cloud and Oracle Cloud**
+- 🤖 Growing specialization in **AI engineering, Generative AI and AI-enabled applications**
+- 🗄️ Relational and NoSQL database experience with **MySQL, PostgreSQL, MongoDB and IndexedDB**
+- 📱 Experience building **offline-first and mobile-first applications**
+- 🧑‍🏫 5+ years of **technical training, mentorship and digital-skills delivery**
+- 📊 Experience coordinating technology programmes, stakeholders, trainers and learners
+- 🌍 Experience delivering digital-skills programmes in **refugee and host-community contexts**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Building
 
-<div align="center">
+### 🌾 Pemanju Farm Manager
+
+A **mobile-first, offline-first Progressive Web App** for livestock and farm management.
+
+The project focuses on transforming an Excel-based farm management workflow into a structured, relational application while maintaining reliable offline functionality.
+
+**Architecture & technologies:**
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Dexie.js` `IndexedDB` `SheetJS` `Supabase` `PostgreSQL`
+
+Key engineering areas include:
+
+- Relational data modelling
+- Animal and livestock record management
+- Offline-first architecture
+- IndexedDB persistence
+- Excel import/export
+- Data validation and reconciliation
+- Automated testing
+- Service-layer architecture
+- Future cloud synchronization
+- AI-assisted farm management capabilities
+
+> **Focus:** Building reliable software for environments where connectivity cannot be assumed.
+
+---
+
+## 🤖 AI Engineering
+
+I am developing deeper expertise in **AI engineering and production AI applications**, with a focus on practical implementation rather than AI theory alone.
+
+Current areas of focus include:
+
+- Python for AI engineering
+- Machine Learning fundamentals
+- Deep Learning
+- NLP and Large Language Models
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- AI agents and agentic systems
+- AI application architecture
+- AI evaluation and responsible AI
+- Cloud-based AI deployment
+- AI integration into education and digital-skills platforms
+
+### Current direction
+
+**AI + Software Engineering + Cloud**
+
+My goal is to build production-oriented AI systems that solve practical problems rather than simply demonstrate models.
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+I have hands-on exposure to cloud technologies and continue building toward cloud-native engineering and architecture.
+
+**Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,oracle&theme=dark&perline=4" />
+
+**DevOps & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,bash,git,github&theme=dark&perline=6" />
+
+Areas of interest:
+
+- Cloud architecture
+- Application deployment
+- Infrastructure fundamentals
+- CI/CD
+- Containers
+- Cloud security
+- Scalable application design
+- Cloud-native development
+
+---
+
+## 🛠️ Technical Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,java,php&theme=dark&perline=7" />
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,php,html,css&theme=dark&perline=7" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,materialui&theme=dark&perline=7" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark&perline=4" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,fastapi&theme=dark&perline=5" />
 
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,vercel,netlify&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi&theme=dark&perline=5" />
 
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase&theme=dark&perline=6" />
+### Databases & Storage
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&theme=dark&perline=6" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark&perline=6" />
+
+---
+
+## 🧑‍🏫 Technology & Digital Skills Education
+
+Beyond software development, I have extensive experience helping people acquire practical digital skills.
+
+Through my work in digital-skills programmes, I have supported training across:
+
+- Web Design & Development
+- Graphic Design & Digital Illustration
+- 3D Animation & Motion Design
+- Digital Marketing
+- AI-enabled digital workflows
+- Employability and freelancing
+- Entrepreneurship and digital livelihoods
+
+I have worked with **500+ young people** across refugee and host-community settings and supported the coordination of trainers, partners, stakeholders and learning activities.
+
+My approach to technology education is practical:
+
+> **Learn → Build → Apply → Demonstrate → Earn**
+
+---
+
+## 💼 Professional Experience
+
+### Project Officer – Digital Skills
+**Finn Church Aid (FCA) Kenya**
+
+Leading and coordinating digital-skills and employability activities across Dadaab, Kakuma and Kalobeyei.
+
+Key areas of responsibility include:
+
+- Digital-skills programme coordination
+- Technical training and mentorship
+- Trainer and facilitator coordination
+- Stakeholder and partner engagement
+- Learner mobilisation and support
+- Employability and freelancing pathways
+- Digital-skills hub coordination
+- Monitoring, reporting and data management
+- Programme quality and risk management
+- Technology and equipment management
+
+### Earlier Experience
+
+**Project Assistant / Digital Skills Trainer – FCA Kenya**
+
+Digital-skills training, learner support, technical coordination and programme implementation.
+
+**Data Specialist – Realfield Limited**
+
+Data management, analysis and technology-supported field operations.
+
+---
+
+## 🏅 Certifications
+
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+- **AWS Certified Cloud Practitioner**
+- **Google Cloud Digital Leader**
+- **Google IT Support Professional Certificate**
+- **Oracle MySQL Implementation Associate**
+- **Programming Essentials in Python**
+- **Scrimba Frontend Developer Career Path**
+- **Training of Trainers – Digital Competencies**
+
+---
+
+## 📌 Engineering Principles
+
+I care about building software that is:
+
+- **Reliable** — predictable behaviour and meaningful error handling
+- **Maintainable** — clear architecture and separation of concerns
+- **Testable** — automated tests where they provide real value
+- **Secure** — privacy and security considered from the beginning
+- **Accessible** — designed for diverse users and contexts
+- **Offline-capable** — where connectivity is unreliable
+- **Scalable** — capable of evolving as requirements grow
+- **Useful** — technology should solve a real problem
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcodesdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcodesdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pcodesdev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcodesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcodesdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcodesdev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pcodesdev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-![Commits](https://img.shields.io/github/commit-activity/y/pcodesdev/pcodesdev.github.io?style=for-the-badge&logo=github&label=Commits&color=blue)
-![Followers](https://img.shields.io/github/followers/pcodesdev?style=for-the-badge&logo=github&label=Followers&color=orange)
-![Stars](https://img.shields.io/github/stars/pcodesdev?style=for-the-badge&logo=github&label=Stars&color=yellow)
-![Repos](https://img.shields.io/badge/Public%20Repos-50+-green?style=for-the-badge&logo=github)
-![Years Active](https://img.shields.io/badge/Years%20Active-5+-blueviolet?style=for-the-badge&logo=github)
-
-</div>
-
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=pcodesdev&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-## 🚀 Current Focus
+## 🔭 Current Focus
 
 ```yaml
-learning:
-  - Advanced React Patterns & Performance Optimization
-  - Cloud-Native Architecture & Microservices
-  - AI/ML Integration in Web Applications
-  - DevOps & Infrastructure as Code
+engineering:
+  - Production-grade React & TypeScript applications
+  - Backend and API development
+  - Offline-first application architecture
+  - Cloud-native application development
+  - Testing and software quality
 
-working_on:
-  - Scrimba Frontend Developer Career Path
-  - Building scalable SaaS applications
-  - Contributing to open-source projects
-  - Creating technical content & tutorials
+ai:
+  - Generative AI
+  - RAG systems
+  - LLM application engineering
+  - AI agents
+  - AI evaluation
+  - Responsible AI
 
-open_to:
-  - Full-time Software Engineering roles
-  - Cloud Architecture consulting
-  - Technical training & mentorship
-  - Collaborative open-source projects
+cloud:
+  - AWS
+  - Google Cloud
+  - Oracle Cloud
+  - Docker
+  - CI/CD
+  - Cloud architecture
+
+professional:
+  - Software Engineering
+  - AI Engineering
+  - Cloud Engineering
+  - Technical Training
+  - Technology Programme Delivery
 ```
+## 🌍 Open to Opportunities
+
+I am interested in opportunities where I can combine **engineering, cloud, AI and technology education**, including:
+
+- 💻 Software Engineering
+- 🤖 AI Engineering
+- ☁️ Cloud Engineering
+- 🏗️ Solutions Architecture
+- 🧑‍🏫 Technical Training & Developer Education
+- 🌍 Technology-for-development initiatives
+- 🔬 Applied AI & emerging technology projects
+
+I am particularly interested in teams that value **continuous learning, practical engineering, ownership and meaningful technology products**.
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Build Something Useful
 
-I'm actively seeking opportunities to collaborate on:
+I'm open to collaborating on:
 
-- 🌐 **Innovative Web & Mobile Applications** - Building cutting-edge solutions
-- 📚 **Technical Content Creation** - Sharing knowledge through blogs and tutorials
-- 🎓 **Digital Skills Training Programs** - Empowering communities with tech education
-- 🔓 **Open Source Projects** - Contributing to accessibility and inclusivity in tech
-- 💡 **Real-World Problem Solving** - Creating impactful software solutions
-- 👨‍🏫 **Mentorship Initiatives** - Nurturing the next generation of developers
+- 🤖 AI-powered applications
+- 🚀 SaaS products
+- 🛠️ Developer tools
+- 🎓 Education technology
+- 💻 Digital-skills platforms
+- 📱 Offline-first applications
+- ☁️ Cloud-native applications
+- 🔓 Open-source projects
+- 🌍 Technology-for-development solutions
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 📌 Visit my [Hashnode blog](https://pcodesdev.hashnode.dev/) for in-depth technical articles
+If you're building something meaningful, **let's talk.**
 
 ---
 
-## 📫 Get In Touch
+## 📫 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pcodesdev/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PcodesDev)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15856450/pcodesdev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njugunapm23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pcodesdev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pcodesdev.github.io)
+[![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pcodesdev)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PcodesDev)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njugunapm23@gmail.com)
 
 </div>
-
 ---
 
 <div align="center">
 
-### 💭 Developer Wisdom
+### ⚡ Build. Learn. Teach. Solve.
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+**Software Engineering • Cloud • AI • Digital Skills**
 
-**⚡ Fun Fact**: I once optimized a function so well, it finished before I even called it! 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=pcodesdev&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pcodesdev/pcodesdev/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-
-**💼 Open to opportunities | 🌍 Based in Kenya | 🚀 Building the future, one commit at a time**
+🇰🇪 Building from Kenya for a global technology ecosystem.
 
 </div>
