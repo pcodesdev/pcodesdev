@@ -228,17 +228,29 @@ I care about building software that is:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcodesdev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcodesdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pcodesdev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-pcodesdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pcodesdev)
+[![Followers](https://img.shields.io/github/followers/pcodesdev?style=for-the-badge&logo=github&label=Followers)](https://github.com/pcodesdev?tab=followers)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-0A66C2?style=for-the-badge&logo=github)](https://github.com/pcodesdev?tab=repositories)
 
 </div>
+
+### 🔨 What You'll Find Here
+
+My GitHub is focused on **practical engineering projects** rather than simply showcasing technology badges.
+
+- 💻 Full-stack web applications
+- ⚛️ React & TypeScript projects
+- 🐍 Python & AI engineering projects
+- 🤖 Generative AI and LLM applications
+- ☁️ Cloud-native applications
+- 📱 Offline-first and mobile-first systems
+- 🗄️ Database-driven applications
+- 🧪 Automated testing and software quality
+- 🔧 Developer tools and experiments
+
+> **My goal is to use GitHub as an engineering portfolio — showing how I design, build, test and document real software.**
+
+[![View my repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pcodesdev?tab=repositories)
 
 ---
 
